@@ -1,0 +1,15 @@
+<svg width="127" height="30" viewBox="0 0 127 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="127" height="30" fill="#E5E5E5"/>
+<g clip-path="url(#clip0_0_1)">
+<rect width="1440" height="4796" transform="translate(-135 -4419)" fill="#FCFCFC"/>
+<path d="M326.485 -19.6332C139.277 -68.5585 -88.6751 230.57 -171.5 385.5L1324 384V346.5C1231.84 226.225 1114.79 93.6762 1067.78 59.3606C953.303 -42.9747 822.746 71.0823 771.777 140.903C714.333 221.629 647.281 187.789 620.935 160.779C494.064 39.2808 371.772 -10.12 326.485 -19.6332Z" fill="#FFF2F6"/>
+<path d="M348.038 -65.0822C141.602 -119.032 -92.6688 209.16 -184 380H1402L1423.5 318.5C1321.88 185.875 1217.3 59.8629 1165.46 22.0235C1039.23 -90.8206 895.266 34.9488 839.062 111.939C775.719 200.955 701.78 163.641 672.729 133.856C532.827 -0.118256 397.976 -54.5921 348.038 -65.0822Z" stroke="#FEDDE8"/>
+<text fill="#56597A" xml:space="preserve" style="white-space: pre" font-family="Josefin Sans" font-size="36" font-weight="bold" letter-spacing="0.02em"><tspan x="45.8072" y="24">rage</tspan></text>
+<text fill="#F78CB6" xml:space="preserve" style="white-space: pre" font-family="Josefin Sans" font-size="36" font-weight="bold" letter-spacing="0.02em"><tspan x="0" y="24">Mi</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="4796" fill="white" transform="translate(-135 -4419)"/>
+</clipPath>
+</defs>
+</svg>
